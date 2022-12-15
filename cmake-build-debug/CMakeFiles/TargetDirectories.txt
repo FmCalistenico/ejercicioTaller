@@ -1,0 +1,3 @@
+C:/Users/57310/CLionProjects/ejemploTaller/cmake-build-debug/CMakeFiles/ejemploTaller.dir
+C:/Users/57310/CLionProjects/ejemploTaller/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/57310/CLionProjects/ejemploTaller/cmake-build-debug/CMakeFiles/rebuild_cache.dir
